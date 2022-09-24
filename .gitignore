@@ -105,3 +105,6 @@ dist
 
 # .gitattributes
 .gitattributes
+
+#prettierrc.json
+prettierrc.json
